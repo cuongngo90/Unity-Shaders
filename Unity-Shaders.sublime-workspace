@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ver",
+				"vertex"
+			],
+			[
+				"verte",
+				"vertexOutput"
+			],
+			[
+				"vert",
+				"vertexInput"
+			],
+			[
+				"GetCo",
+				"Component.GetComponents<T>()"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"transof",
+				"Transform.Find(name)"
+			],
+			[
+				"Mono",
+				"MonoBehaviour.Update()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/_Material/FlatColor.shader",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"shader",
+				"Set Syntax: Unity Shader"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"unty",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"J",
+				"Set Syntax: JSON"
+			],
+			[
+				"Jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"un",
+				"Unity Reference: Search Selection"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cuongngo/Projects/cuongngo-github/Unity-Shaders/Assets/_Material/FlatColor.shader",
+		"/Users/cuongngo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/cuongngo/.ssh/known_hosts",
+		"/Users/cuongngo/Projects/hypericum/unity-poc/character-control-multiplayer/character-control-multiplayer.sublime-project",
+		"/Users/cuongngo/Projects/hypericum/unity-poc/character-control-multiplayer/Assets/_GameAssets/Scripts/AsnetCommon/Weapon/GatlingGun.cs",
+		"/Users/cuongngo/Projects/hypericum/unity-poc/character-control-multiplayer/Assets/_GameAssets/Models/Tank.FBX",
+		"/Users/cuongngo/Projects/hypericum/unity-poc/character-control-multiplayer/Assets/_GameAssets/Scripts/AsnetCommon/Weapon/VulcanFX.cs",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/BallController.cs",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/BallManager.cs",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/InstantiatePlayer.cs",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/PlayerController.cs",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project.sublime-project",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/3DMUVE NetworkingTutorial.sublime-project",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/NetworkMasterServer.cs",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/BallSpawnManager.cs",
+		"/Users/cuongngo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/3DMUVE NetworkingTutorial.sublime-workspace",
+		"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode/3DMUVE NetworkingTutorial-csharp.sublime-project",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-FogOfWarMultiplayer/Assets/cuongngo-FogOfWarMultiplayer-csharp.sublime-project",
+		"/Users/cuongngo/Documents/book/unity/Networking/collect_in_space_sources/Assets/src/server/Netman.js",
+		"/Users/cuongngo/Documents/book/unity/Networking/collect_in_space_sources/server/Netman.js",
+		"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking-Extends/Assets/M2HNetworking/zSharedAssets/MakePersistent.cs",
+		"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking/Assets/Example3/C#/GameLobby.cs",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/JoinMenu.js",
+		"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking/Assets/Example3/C#/gamescript_3.cs",
+		"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking/Assets/Example3/C#/JoinMenu.cs",
+		"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking/Assets/Example3/C#/LobbyChat.cs",
+		"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking/Assets/Example3/C#/MainMenu.cs",
+		"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking/Assets/Example3/C#/MultiplayerMenu.cs",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/C#/GameLobby.cs",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/C#/JoinMenu.cs",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/GameLobby.js",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/gamescript_3.js",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/LobbyChat.js",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/MainMenu.js",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/natTester.js",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/MultiplayerMenu.js",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/C#/MainMenu.cs",
+		"/Users/cuongngo/Projects/Unity/Unity-Training-Official/cuongngo-network-lobby/Assets/Example3/C#/MultiplayerMenu.cs",
+		"/Users/cuongngo/Projects/Unity/Networking/M2H-Tutorial/M2H_Networking_Tutorial/Assets/Example3/C#/GameLobby.cs"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/cuongngo/Projects/hypericum/unity-poc/character-control-multiplayer/Assets/_GameAssets/Scripts",
+			"/Users/cuongngo/Projects/hypericum/unity-poc/character-control-multiplayer/Assets",
+			"/Users/cuongngo/Documents/book/unity/Networking/networkingforbeginnerswithunity3d_content/3DMUVE NetworkingTutorial for Unity3D full Unity3D Project/Assets/NetworkSampleCode",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"128.199",
+			"shooting",
+			"ShellParticles",
+			"BarrelSockets",
+			"TurretSocket",
+			"curSocket",
+			"AdvanceSocket",
+			"Vulcan",
+			"GunType",
+			"gunType",
+			"fxTypeName",
+			"DefaultFXType",
+			"FXType",
+			"fxType",
+			"F3DFXType",
+			"fxType",
+			"TurretSocket",
+			"timerID",
+			"F3DPool",
+			"BallController",
+			"NetworkMasterServer",
+			"            ",
+			"xbuild",
+			"folders",
+			"Facilitator",
+			"tFacilitator",
+			"fac",
+			"fa",
+			"f",
+			"fac",
+			"facillitator",
+			"é",
+			"lastUnfocusTime",
+			"GlobalChatWindow",
+			"CloseChatWindow",
+			"addGameChatMessage",
+			"TellServerOurName",
+			"ShowChatWindow",
+			"OnConnectedToServer",
+			"ShowChatWindow",
+			"SetPlayer",
+			"enabled",
+			"probably",
+			"hostDataList",
+			"directConnectGUIWindow",
+			"EnableMenu",
+			"tryingToConnectquickplay",
+			"timeoutHostList",
+			"joinMenuScript",
+			"StartHost",
+			"InitializeSecurity",
+			"serverPort",
+			"showLobby",
+			"PlayerInfo",
+			"networkView",
+			"MultiplayerFunctions",
+			"launchingGame",
+			"launchGame",
+			"launchingGame",
+			"showLobby",
+			"OpenMenu",
+			"Enter your name",
+			"file_ex",
+			"folder",
+			"MultiplayerFunctions.SP",
+			"MultiplayerFunctions",
+			"MultiplayerFunctions.SP",
+			"MultiplayerFunctions",
+			"MultiplayerFunctions\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"timerID",
+			"F3DPool",
+			"MasterServer",
+			"MultiplayerFunctions.SP",
+			"MultiplayerFunctions"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/_Material/FlatColor.shader",
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D Shader Highlighter and Snippets/UnityShader.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"eventman",
+				"Assets/_Lilium/Scripts/Manager/EventManager.cs"
+			],
+			[
+				"single",
+				"Assets/_Lilium/Scripts/Utils/Singleton.cs"
+			],
+			[
+				"tilesman",
+				"Assets/_Lilium/Scripts/Manager/TilesManager.cs"
+			],
+			[
+				"scenema",
+				"Assets/_Lilium/Scripts/Manager/SceneManager.cs"
+			],
+			[
+				"c_net",
+				"Assets/src/client/C_Netman.js"
+			],
+			[
+				"netma",
+				"Assets/src/server/Netman.js"
+			],
+			[
+				"weapo",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Weapon/Weapon.cs"
+			],
+			[
+				"gatling",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Weapon/GatlingGun.cs"
+			],
+			[
+				"wea",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Weapon/Weapon.cs"
+			],
+			[
+				"vulcanfx",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Weapon/VulcanFX.cs"
+			],
+			[
+				"f3dfx",
+				"Assets/FORGE3D/Sci-Fi Effects/Code/F3DFXController.cs"
+			],
+			[
+				"f3dprojec",
+				"Assets/FORGE3D/Sci-Fi Effects/Code/F3DProjectile.cs"
+			],
+			[
+				"f3dcontro",
+				"Assets/FORGE3D/Sci-Fi Effects/Code/F3DAudioController.cs"
+			],
+			[
+				"weap",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Weapon/Weapon.cs"
+			],
+			[
+				"galing",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Weapon/GatlingGun.cs"
+			],
+			[
+				"flamef",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Weapon/FlameFX.cs"
+			],
+			[
+				"bore",
+				"Assets/_GameAssets/Scripts/AsnetCommon/Machine/BoreGunFX.cs"
+			],
+			[
+				"tank",
+				"Assets/_GameAssets/Models/Tank.FBX"
+			],
+			[
+				"networkmaster",
+				"NetworkMasterServer.cs"
+			],
+			[
+				"netman",
+				"server/Netman.js"
+			],
+			[
+				"netme",
+				"client/collectibles/C_BonusManager.js"
+			],
+			[
+				"gamel",
+				"/Users/cuongngo/Projects/Unity/Networking/Ultimate-Networking/Assets/Example3/C#/GameLobby.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 532.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/cuongngo/Documents/book/unity/Networking/collect_in_space_sources/Assets/Collect in Space.sublime-project"
+			]
+		],
+		"width": 830.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}
